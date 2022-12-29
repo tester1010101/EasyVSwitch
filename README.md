@@ -1,6 +1,7 @@
 # EasyVSwitch (v1.2) :crescent_moon: :white_flower: 
 * :thermometer: Easily boot at startup with the correct IP on your Virtual Switch.
 * :ringed_planet: Run the script at startup with group policy options.
+* :heavy_exclamation_mark: Windows may change network address/mask without your consent, this may/will be helpful.
 
 # Instructions :: 
 
