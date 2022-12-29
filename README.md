@@ -1,4 +1,4 @@
-# EasyVSwitch :crescent_moon:
+# EasyVSwitch (v1.2) :crescent_moon: :sun: 
 * :thermometer: Easily boot at startup with the correct IP on your Virtual Switch.
 * :ringed_planet: Run the script at startup with group policy options.
 
